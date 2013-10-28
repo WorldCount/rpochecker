@@ -1,4 +1,4 @@
 rpochecker
 ==========
 
-rpochecker - free program for group RPO Russian Post. Checks for files and corrects errors in them.
+rpochecker - бесплатная программа для группы РПО Почты РФ. Проверяет файлы и исправляет ошибки в них.
